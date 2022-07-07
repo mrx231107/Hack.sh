@@ -1,0 +1,11 @@
+#Install Package Termux
+
+termux-setup-storage
+apt-get update -y
+apt-get upgrade -y
+apt install php -y
+apt install git -y
+apt install wget -y
+apt install curl -y
+apt install unzip -y
+clear
